@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: '55 Blocks Inc'),
+      home: const MyHomePage(title: '55 Blocks Company'),
     );
   }
 }

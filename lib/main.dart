@@ -9,7 +9,7 @@ void main()=> runApp(MaterialApp(
     ),
     body: Center(
       child: Text(
-          'Hello Subscribers!!',
+          'Sign in',
         style: TextStyle(
           color: Colors.grey,
           letterSpacing: 2.0,

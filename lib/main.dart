@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main()=> runApp(MaterialApp(
   home: Scaffold(
     appBar: AppBar(
-      title: Text('55 BLOCKS CHANNEL '),
+      title: Text('55 BLOCKS CODING SCHOOL '),
       centerTitle: true,
       backgroundColor: Colors.deepPurpleAccent,
     ),

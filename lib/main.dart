@@ -3,13 +3,13 @@ import 'package:flutter/material.dart';
 void main()=> runApp(MaterialApp(
   home: Scaffold(
     appBar: AppBar(
-      title: Text('55 BLOCKS CHANNEL '),
+      title: Text('55 BLOCKS CODING SCHOOL '),
       centerTitle: true,
       backgroundColor: Colors.deepPurpleAccent,
     ),
     body: Center(
       child: Text(
-          'Hello Subscribers!!',
+          'Sign in',
         style: TextStyle(
           color: Colors.grey,
           letterSpacing: 2.0,

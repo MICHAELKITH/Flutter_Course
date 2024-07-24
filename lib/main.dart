@@ -5,7 +5,7 @@ void main()=> runApp(MaterialApp(
     appBar: AppBar(
       title: Text('55 BLOCKS CODING SCHOOL '),
       centerTitle: true,
-      backgroundColor: Colors.deepPurpleAccent,
+      backgroundColor: Colors.redAccent,
     ),
     body: Center(
       child: Text(
